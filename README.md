@@ -7,7 +7,6 @@
 <a href="https://sadiasiddique.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00B4A6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" /></a>
 <a href="https://linkedin.com/in/sadia-siddique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:sadiasid007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-<img src="https://komarev.com/ghpvc/?username=SadiaSiddique01&label=PROFILE%20VIEWS&color=00b4a6&style=flat-square" alt="views" />
 
 </div>
 
@@ -151,12 +150,3 @@ working prototype.
 
 **B.Sc. Information Technology and Computing** — Arab Open University *(UK Open University validated)*, Dammam
 2021 – 2025 · **CGPA 4.0/4.0** · Distinction · Dean's List 2022–2025
-
----
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SadiaSiddique01&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaSiddique01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-
-</div>

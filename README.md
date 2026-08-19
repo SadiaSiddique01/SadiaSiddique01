@@ -116,7 +116,4 @@ pipelines for automated quality assessment.
 ## Research
 
 **Multi-Tiered RAG-Based Chatbot for Mental Health Support** — lead author,
-IEEE Women in Data Science 2025 (IEEE Xplore, Scopus indexed). Multi-Query Graph
-RAG combining retrieval with graph-based query routing: **0.99 contextual
-precision**, four-tier personalization with crisis-detection protocols, evaluated
-with DeepEval and RAGAS.
+IEEE Women in Data Science 2025 (IEEE Xplore, Scopus indexed).

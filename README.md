@@ -6,7 +6,6 @@
 
 <a href="https://sadiasiddique.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00B4A6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/sadia-siddique-41768626b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:sadiasid007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 
 </div>
 
@@ -20,6 +19,7 @@ engineer = {
     "serving":  ["vLLM", "on-prem GPU deployment", "quantization", "batching & concurrency"],
     "building": ["RAG pipelines", "agentic systems", "computer vision"],
     "measuring":["DeepEval", "RAGAS", "LLM-as-judge", "throughput / latency / VRAM"],
+    "interests":["AI for healthcare", "clinical and mental-health applications"],
 }
 ```
 
@@ -113,40 +113,10 @@ pipelines for automated quality assessment.
 
 ---
 
-## Projects
+## Research
 
-| project | stack |
-|---|---|
-| [**Construction site hazard detection**](https://github.com/SadiaSiddique01/Construction-Hazard-Detection) — real-time PPE compliance from live camera feeds, plus fall-risk detection | RT-DETR, ResNet50 |
-| **Football match analysis & player tracking** — players, referees and ball across full-match footage, persistent identity tracking, frames stitched into a unified pitch view | RF-DETR, multi-object tracking |
-| **Local LLM benchmarking & sizing toolkit** — throughput, latency and memory across quantization levels, batch sizes and context lengths, producing GPU/VRAM sizing estimates | vLLM |
-| **OCR extraction pipelines, comparative study** — classical OCR engines against VLM-based extraction on accuracy, latency and cost | VLMs, OCR |
-| [**Parameter-efficient fine-tuning for mental-health LLMs**](https://github.com/SadiaSiddique01/arabic-model-finetuning) — domain adaptation; demonstrated RAG superiority over static fine-tuning for evolving guidelines | LoRA, QLoRA |
-| [**MemAgent**](https://github.com/SadiaSiddique01/MemAgent) — agent with persistent memory | Python |
-
----
-
-## Research & recognition
-
-**Multi-Tiered RAG-Based Chatbot for Mental Health Support**
-*IEEE Women in Data Science Conference, Prince Sultan University, 2025* — **lead author**,
-IEEE Xplore & Scopus indexed, poster at WiDS KFUPM.
-Multi-Query Graph RAG (MQG-RAG) combining retrieval with graph-based query routing,
-reaching **0.99 contextual precision** with perfect role adherence; four-tier
-personalization framework with crisis-detection protocols, evaluated with DeepEval and RAGAS.
-
-**2nd place, AOU Startup Competition 2025** — AI-powered mental-health startup presented
-under the patronage of HRH Prince Khalid bin Alwaleed; built end to end from concept to
-working prototype.
-
-**Compiler Award, Engineering Expo** — for contribution to an AI research & products department.
-
----
-
-## Education
-
-**M.Sc. Artificial Intelligence** — King Fahd University of Petroleum and Minerals (KFUPM), Dhahran
-2026 – present
-
-**B.Sc. Information Technology and Computing** — Arab Open University *(UK Open University validated)*, Dammam
-2021 – 2025 · **CGPA 4.0/4.0** · Distinction · Dean's List 2022–2025
+**Multi-Tiered RAG-Based Chatbot for Mental Health Support** — lead author,
+IEEE Women in Data Science 2025 (IEEE Xplore, Scopus indexed). Multi-Query Graph
+RAG combining retrieval with graph-based query routing: **0.99 contextual
+precision**, four-tier personalization with crisis-detection protocols, evaluated
+with DeepEval and RAGAS.

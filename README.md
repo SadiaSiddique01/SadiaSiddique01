@@ -19,7 +19,8 @@ engineer = {
     "serving":  ["vLLM", "on-prem GPU deployment", "quantization", "batching & concurrency"],
     "building": ["RAG pipelines", "agentic systems", "computer vision"],
     "measuring":["DeepEval", "RAGAS", "LLM-as-judge", "throughput / latency / VRAM"],
-    "interests":["AI for healthcare", "clinical and mental-health applications"],
+    "interests":["AI for healthcare", "AI for sports analytics"],
+    "current":  "football match analysis: detection, tracking, pitch reconstruction",
 }
 ```
 
@@ -117,3 +118,12 @@ pipelines for automated quality assessment.
 
 **Multi-Tiered RAG-Based Chatbot for Mental Health Support** — lead author,
 IEEE Women in Data Science 2025 (IEEE Xplore, Scopus indexed).
+
+---
+
+### Currently
+
+Football match analysis: multi-object detection and persistent identity tracking for
+players, referees and the ball across full-match footage, with frames stitched into a
+unified pitch view. **Open to collaboration on sports analytics and AI for healthcare**
+- reach out.

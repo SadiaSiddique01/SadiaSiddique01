@@ -1,171 +1,162 @@
 <div align="center">
 
-<a href="https://github.com/SadiaSiddique01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=900&color=00B4A6&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Arabic+NLP+and+RAG+systems;MSc+Artificial+Intelligence+%40+KFUPM;Answers+that+cite+a+page+you+can+open" alt="Machine Learning Engineer" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=800&color=00B4A6&center=true&vCenter=true&width=820&lines=AI+Engineer;LLM+serving+%7C+RAG+%7C+computer+vision;vLLM+%C2%B7+LangGraph+%C2%B7+RT-DETR+%C2%B7+PyTorch;MSc+Artificial+Intelligence+%40+KFUPM" alt="AI Engineer" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SadiaSiddique01&label=PROFILE%20VIEWS&color=00b4a6&style=flat-square" alt="profile views" />
-<a href="https://github.com/SadiaSiddique01?tab=followers"><img src="https://img.shields.io/github/followers/SadiaSiddique01?label=FOLLOWERS&style=flat-square&color=00b4a6" alt="followers" /></a>
+<a href="https://sadiasiddique.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00B4A6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" /></a>
+<a href="https://linkedin.com/in/sadia-siddique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:sadiasid007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<img src="https://komarev.com/ghpvc/?username=SadiaSiddique01&label=PROFILE%20VIEWS&color=00b4a6&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
-## `>` whoami
-
 ```python
 engineer = {
-    "name":      "Sadia Siddique",
-    "studying":  "MSc Artificial Intelligence @ KFUPM",
-    "focus":     ["Arabic NLP", "Retrieval-Augmented Generation"],
-    "building":  ["Hybrid retrieval", "Citation-grounded answers", "Multi-agent systems"],
-    "interests": ["Low-resource-language IR", "OCR quality", "LLM evaluation"],
-    "principle": "An answer without a source you can open is not an answer",
+    "role":     "AI Engineer",
+    "based":    "Dammam, Saudi Arabia",
+    "studying": "MSc Artificial Intelligence @ KFUPM",
+    "serving":  ["vLLM", "on-prem GPU deployment", "quantization", "batching & concurrency"],
+    "building": ["RAG pipelines", "agentic systems", "computer vision"],
+    "measuring":["DeepEval", "RAGAS", "LLM-as-judge", "throughput / latency / VRAM"],
 }
 ```
 
-I build systems that **retrieve before they generate**, and that can prove where an
-answer came from. Most of my recent work is Arabic-language: right-to-left layouts,
-Arabic-Indic digits, scanned and photographed documents, and the retrieval problems
-that come with all three.
-
-I care about the part most RAG demos skip: **measuring whether it actually works**,
-and saying plainly where it does not.
-
 ---
 
-## `>` what I work on
+## Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**LLM serving & infrastructure**
 
-### Retrieval & RAG
-Hybrid dense + lexical retrieval, reciprocal rank fusion, parent/child chunking,
-context assembly under token budgets, and citation verification at the character
-level. Evaluation sets authored from source documents rather than from parser
-output, so the score measures retrieval and not agreement with itself.
+![vLLM](https://img.shields.io/badge/vLLM-FF6B35?style=flat-square&logoColor=white)
+![CUDA](https://img.shields.io/badge/on--prem%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Quantization](https://img.shields.io/badge/quantization-5A67D8?style=flat-square)
+![Batching](https://img.shields.io/badge/batching%20%26%20concurrency-5A67D8?style=flat-square)
+![Benchmarking](https://img.shields.io/badge/throughput%20%2F%20latency%20benchmarking-5A67D8?style=flat-square)
+![VRAM sizing](https://img.shields.io/badge/VRAM%20%26%20token--cost%20sizing-5A67D8?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
-
-### Arabic & low-resource NLP
-Arabic normalisation and tokenisation for BM25, digit folding, clitic and article
-handling, cross-lingual embedding so an English question finds an Arabic passage,
-and OCR provenance on documents that were photographed rather than typed.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### LLM systems
-Fine-tuning, sufficiency-based refusal instead of similarity thresholds, conflict
-detection between sources, provider abstraction across hosted and open-weight
-models, and multi-agent orchestration.
-
-</td>
-<td width="50%" valign="top">
-
-### Computer vision
-Object detection for safety monitoring, face recognition pipelines, and real-time
-hand-tracking interfaces with MediaPipe and OpenCV.
-
-</td>
-</tr>
-</table>
-
----
-
-## `>` education
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**MSc, Artificial Intelligence** &nbsp;·&nbsp; *in progress*
-King Fahd University of Petroleum and Minerals (KFUPM)
-
-</td>
-<td width="50%" valign="top">
-
-**Arab Open University**
-
-</td>
-</tr>
-</table>
-
----
-
-## `>` toolkit
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**ML / NLP**
+**AI / ML frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0D1117?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-8B5CF6?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-8B5CF6?style=flat-square)
+
+**Computer vision**
+
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![RT-DETR](https://img.shields.io/badge/RT--DETR-0EA5E9?style=flat-square)
+![RF-DETR](https://img.shields.io/badge/RF--DETR-0EA5E9?style=flat-square)
+![ResNet](https://img.shields.io/badge/ResNet-0EA5E9?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![VLM](https://img.shields.io/badge/vision--language%20models-0EA5E9?style=flat-square)
+![Pose](https://img.shields.io/badge/pose%20estimation%20%26%20tracking-0EA5E9?style=flat-square)
 
-**Retrieval & data**
+**Techniques**
 
-![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
-![BM25](https://img.shields.io/badge/BM25-6E56CF?style=flat-square&logo=elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20pipelines-00B4A6?style=flat-square)
+![Query routing](https://img.shields.io/badge/query%20routing-00B4A6?style=flat-square)
+![Reranking](https://img.shields.io/badge/reranking-00B4A6?style=flat-square)
+![Guardrailing](https://img.shields.io/badge/guardrailing-00B4A6?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-00B4A6?style=flat-square)
+![Agentic](https://img.shields.io/badge/agentic%20AI-00B4A6?style=flat-square)
+![Context engineering](https://img.shields.io/badge/context%20engineering-00B4A6?style=flat-square)
 
-**Serving & ops**
+**Tools**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## `>` selected work
+## Work
 
-| project | what it is |
+**Production RAG chatbot** &nbsp;·&nbsp; enterprise deployment, 5-month cycle
+End-to-end pipeline with guardrailing, semantic reranking, query validation and
+post-generation answer verification. Prompt-injection guardrails, content filtering
+and fact-checking layers took retrieval from **75% to 96% (English) and 94% (Arabic)**.
+
+**LLM deployment & capacity planning**
+Open-weight models served on GPU infrastructure with vLLM; tuned batching,
+concurrency and context handling against throughput and latency targets. Structured
+comparisons across candidate models and serving configurations turned benchmarks
+into model-selection recommendations, with GPU, VRAM and token-cost estimates
+produced **before** hardware was committed.
+
+**Context engineering** &nbsp;·&nbsp; **100K → 20K tokens per workflow (80% reduction)**
+Context-management strategies for LLM-driven sequential operations, eliminating
+redundant context per API call.
+
+**Athletic drill analysis** &nbsp;·&nbsp; computer-vision product
+Human pose estimation on MediaPipe with VLM-augmented temporal analysis over
+timestamped frames; biomechanical joint-angle engines over pose keypoints for
+movement-quality scoring; a drill-agnostic rep-detection algorithm using signal
+processing and peak detection that adapts to varying exercise tempos.
+
+**Agentic systems & evaluation**
+Programmatic vs. on-demand tool calling and planner-agent architectures compared
+for multi-step ERP workflows, showing programmatic approaches cut token
+consumption and improve accuracy on aggregation tasks. LLM-as-judge evaluation
+pipelines for automated quality assessment.
+
+---
+
+## Projects
+
+| project | stack |
 |---|---|
-| **Arabic Document QA** | Upload Arabic documents (native PDF, scans, phone photos, Office files), ask in Arabic or English, get an answer grounded in a passage you can open on the page, or an explicit refusal. Hybrid retrieval measured at **91 % recall@5 over 216 questions**, with per-page OCR quality flags and character-level quote verification. |
-| [**arabic-model-finetuning**](https://github.com/SadiaSiddique01/arabic-model-finetuning) | Fine-tuning experiments on Arabic language models. |
-| [**MemAgent**](https://github.com/SadiaSiddique01/MemAgent) | Agent with persistent memory. |
-| [**Construction-Hazard-Detection**](https://github.com/SadiaSiddique01/Construction-Hazard-Detection) | YOLO-based object detection for construction-site safety monitoring. |
-| [**GestureBasedVolumeControl**](https://github.com/SadiaSiddique01/GestureBasedVolumeControl) | Real-time hand tracking with MediaPipe and OpenCV. |
-| [**Facial Recognition Attendance**](https://github.com/SadiaSiddique01/Facial_Recognition_Based_Attendance_System) | Face-recognition attendance pipeline. |
+| [**Construction site hazard detection**](https://github.com/SadiaSiddique01/Construction-Hazard-Detection) — real-time PPE compliance from live camera feeds, plus fall-risk detection | RT-DETR, ResNet50 |
+| **Football match analysis & player tracking** — players, referees and ball across full-match footage, persistent identity tracking, frames stitched into a unified pitch view | RF-DETR, multi-object tracking |
+| **Local LLM benchmarking & sizing toolkit** — throughput, latency and memory across quantization levels, batch sizes and context lengths, producing GPU/VRAM sizing estimates | vLLM |
+| **OCR extraction pipelines, comparative study** — classical OCR engines against VLM-based extraction on accuracy, latency and cost | VLMs, OCR |
+| [**Parameter-efficient fine-tuning for mental-health LLMs**](https://github.com/SadiaSiddique01/arabic-model-finetuning) — domain adaptation; demonstrated RAG superiority over static fine-tuning for evolving guidelines | LoRA, QLoRA |
+| [**MemAgent**](https://github.com/SadiaSiddique01/MemAgent) — agent with persistent memory | Python |
 
 ---
 
-## `>` stats
+## Research & recognition
+
+**Multi-Tiered RAG-Based Chatbot for Mental Health Support**
+*IEEE Women in Data Science Conference, Prince Sultan University, 2025* — **lead author**,
+IEEE Xplore & Scopus indexed, poster at WiDS KFUPM.
+Multi-Query Graph RAG (MQG-RAG) combining retrieval with graph-based query routing,
+reaching **0.99 contextual precision** with perfect role adherence; four-tier
+personalization framework with crisis-detection protocols, evaluated with DeepEval and RAGAS.
+
+**2nd place, AOU Startup Competition 2025** — AI-powered mental-health startup presented
+under the patronage of HRH Prince Khalid bin Alwaleed; built end to end from concept to
+working prototype.
+
+**Compiler Award, Engineering Expo** — for contribution to an AI research & products department.
+
+---
+
+## Education
+
+**M.Sc. Artificial Intelligence** — King Fahd University of Petroleum and Minerals (KFUPM), Dhahran
+2026 – present
+
+**B.Sc. Information Technology and Computing** — Arab Open University *(UK Open University validated)*, Dammam
+2021 – 2025 · **CGPA 4.0/4.0** · Distinction · Dean's List 2022–2025
+
+---
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=SadiaSiddique01&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaSiddique01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### `>` reach me
-
-<a href="mailto:sadiasiddique801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<!-- To add LinkedIn: uncomment the line below and put your URL in the href. -->
-<!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> -->
 
 </div>

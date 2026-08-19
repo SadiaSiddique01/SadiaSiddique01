@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/SadiaSiddique01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=900&color=00B4A6&center=true&vCenter=true&width=800&lines=Arabic+NLP+%26+Retrieval+Engineer;RAG+Systems+with+Verifiable+Citations;LLM+Fine-tuning+%26+Multi-Agent+Design;Computer+Vision" alt="Arabic NLP and Retrieval Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=900&color=00B4A6&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Arabic+NLP+and+RAG+systems;MSc+Artificial+Intelligence+%40+KFUPM;Answers+that+cite+a+page+you+can+open" alt="Machine Learning Engineer" />
 </a>
 
 <br/>

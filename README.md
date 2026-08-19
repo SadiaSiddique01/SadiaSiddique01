@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://sadiasiddique.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00B4A6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio" /></a>
-<a href="https://linkedin.com/in/sadia-siddique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/sadia-siddique-41768626b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:sadiasid007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 
 </div>

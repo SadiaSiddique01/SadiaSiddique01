@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=800&color=00B4A6&center=true&vCenter=true&width=820&lines=AI+Engineer;LLM+serving+%7C+RAG+%7C+computer+vision;vLLM+%C2%B7+LangGraph+%C2%B7+RT-DETR+%C2%B7+PyTorch;MSc+Artificial+Intelligence+%40+KFUPM" alt="AI Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2600&pause=800&color=00B4A6&center=true&vCenter=true&width=820&lines=AI+Engineer;LLM+serving+%7C+RAG+%7C+computer+vision;vLLM+%C2%B7+LangGraph+%C2%B7+RT-DETR+%C2%B7+PyTorch" alt="AI Engineer" />
 
 <br/>
 
